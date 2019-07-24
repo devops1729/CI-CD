@@ -9,7 +9,7 @@ variable "environment" {
 
 #key pair name
 variable "key_name" {
-  default = "jenkins-west-2"
+  default = "formacoregon"
 }
 
 variable "ssh_user" {
